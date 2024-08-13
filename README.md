@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3><hr>
 <p align="left">
-<a href="[https://www.linkedin.com/in/diptakarar/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diptakarar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/diptakarar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diptakarar" height="30" width="40" /></a>
 <a href="mailto:diptakarar.iembca2025@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="40"/></a>&nbsp&nbsp&nbsp
 <a href="https://github.com/Dipta1102" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60" width="40"/></a></p>  
 <br><br><hr>     
